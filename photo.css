@@ -1,0 +1,26 @@
+img{
+	width: 30%;           /*So that 3 images should displayed in 1st row*/ 
+	float: left;         /*no space remains*/
+	margin:1.66%;        /*1 image taking 30% means 3 img taking 90 remaining is 10% and we have to give each image a margin so comparing side by side only we should have 3*2=6 margins so remaining 10%/6 margin sides=1.66%*/
+}
+
+p{
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-size: 23px; 
+	font-weight: 800;
+	border-bottom: 2px solid rgba(1,1,1,.2);
+	width: 30%;
+	padding-bottom: 1.66%
+}
+
+/*#licenses{
+	font-family: Raleway;
+	margin-left: 1.66%;
+}*/
+
+h6{
+	font-family: Raleway;
+	margin-left: 1.66%;
+
+}
