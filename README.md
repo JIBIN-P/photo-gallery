@@ -1,1 +1,1 @@
-Hii This is somewhat of an okay design of a photo gallery.
+# **A Very Basic design of a Photo Gallery**
